@@ -1,0 +1,13 @@
+<mxfile host="65bd71144e">
+    <diagram id="k__SO7JgT_GDR5waKhh6" name="Page-1">
+        <mxGraphModel dx="567" dy="203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;b&gt;books table&lt;/b&gt;&lt;br&gt;&lt;br&gt;-int('id')&lt;br&gt;-string('author')&lt;br&gt;-year('date_of_parution')&lt;br&gt;-string('book_name')&lt;br&gt;-string('category')&lt;br&gt;-string('excerpt')&lt;br&gt;-int('pages')" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="40" width="320" height="150" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
